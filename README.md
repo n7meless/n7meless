@@ -1,14 +1,17 @@
 ![Welcome to my profile! I'm Aidar Almukhametov. I'm Java Backend Developer. Check out my work](assets/greeting.gif)
 
 
-## 📖 𝗔𝗕𝗢𝗨𝗧
+## 📖 ABOUT
+**I'm a backend developer based in Ufa, Russia. 
+My best trait as a developer is that before i start writing code, i first think carefully and try to anticipate the consequences of each of my development decisions. I also like to set myself a difficult task, which allows me to move on, to learn new things.**
 
-𝗜'𝗠 𝗔 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗕𝗔𝗦𝗘𝗗 𝗜𝗡 𝗨𝗙𝗔❟ 𝗥𝗨𝗦𝗦𝗜𝗔｡
+
+<!-- 𝗜'𝗠 𝗔 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗕𝗔𝗦𝗘𝗗 𝗜𝗡 𝗨𝗙𝗔❟ 𝗥𝗨𝗦𝗦𝗜𝗔｡
 
 𝗠𝗬 𝗕𝗘𝗦𝗧 𝗧𝗥𝗔𝗜𝗧 𝗔𝗦 𝗔 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗜𝗦 𝗧𝗛𝗔𝗧 𝗕𝗘𝗙𝗢𝗥𝗘 𝗜 𝗦𝗧𝗔𝗥𝗧 𝗪𝗥𝗜𝗧𝗜𝗡𝗚 𝗖𝗢𝗗𝗘❟ 𝗜 𝗙𝗜𝗥𝗦𝗧 𝗧𝗛𝗜𝗡𝗞 𝗖𝗔𝗥𝗘𝗙𝗨𝗟𝗟𝗬 𝗔𝗡𝗗 𝗧𝗥𝗬 𝗧𝗢 𝗔𝗡𝗧𝗜𝗖𝗜𝗣𝗔𝗧𝗘 𝗧𝗛𝗘
-𝗖𝗢𝗡𝗦𝗘𝗤𝗨𝗘𝗡𝗖𝗘𝗦 𝗢𝗙 𝗘𝗔𝗖𝗛 𝗢𝗙 𝗠𝗬 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 𝗗𝗘𝗖𝗜𝗦𝗜𝗢𝗡𝗦｡ 𝗔𝗟𝗦𝗢❟ 𝗜 𝗔𝗟𝗪𝗔𝗬𝗦 𝗦𝗘𝗧 𝗠𝗬𝗦𝗘𝗟𝗙 𝗔 𝗧𝗔𝗦𝗞 𝗧𝗛𝗔𝗧 𝗔𝗟𝗟𝗢𝗪𝗦 𝗠𝗘 𝗧𝗢 𝗠𝗢𝗩𝗘 𝗢𝗡❟ 𝗧𝗢 𝗟𝗘𝗔𝗥𝗡 𝗡𝗘𝗪 𝗧𝗛𝗜𝗡𝗚𝗦｡
+𝗖𝗢𝗡𝗦𝗘𝗤𝗨𝗘𝗡𝗖𝗘𝗦 𝗢𝗙 𝗘𝗔𝗖𝗛 𝗢𝗙 𝗠𝗬 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧 𝗗𝗘𝗖𝗜𝗦𝗜𝗢𝗡𝗦｡ 𝗔𝗟𝗦𝗢❟ 𝗜 𝗔𝗟𝗪𝗔𝗬𝗦 𝗦𝗘𝗧 𝗠𝗬𝗦𝗘𝗟𝗙 𝗔 𝗧𝗔𝗦𝗞 𝗧𝗛𝗔𝗧 𝗔𝗟𝗟𝗢𝗪𝗦 𝗠𝗘 𝗧𝗢 𝗠𝗢𝗩𝗘 𝗢𝗡❟ 𝗧𝗢 𝗟𝗘𝗔𝗥𝗡 𝗡𝗘𝗪 𝗧𝗛𝗜𝗡𝗚𝗦｡ -->
 
-## 🧰 𝗦𝗞𝗜𝗟𝗟𝗦
+## 🧰 SKILLS
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -79,7 +82,7 @@
 [//]: # (![Linux]&#40;https://img.shields.io/badge/-Linux-000?logo=linux&#41;)
 
 
-## 🔗 𝗟𝗜𝗡𝗞𝗦
+## 🔗 LINKS
 
 [//]: # ([![Gmail]&#40;https://img.shields.io/badge/-Gmail-000?logo=gmail&labellogo&#41;]&#40;n7meless@gmail.com&#41;)
 
@@ -94,7 +97,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/n7meless)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D0%B9%D0%B4%D0%B0%D1%80-%D0%B0%D0%BB%D1%8C%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%B2-657a96277/)
 
-## 📈 𝗦𝗧𝗔𝗧𝗦
+## 📈 STATS
 
 <p>
 
