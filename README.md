@@ -110,13 +110,13 @@ My best trait as a developer is that before i start writing code, i first think 
 [//]: # (GITHUB STATS)
 
 <a href="https://github.com/n7meless">
-<img height="137" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=n7meless&card_width=300&hide_title=true&hide_border=true&hide=contribs,prs&show_icons=true&theme=dark&title_color=048955&text_color=FFFFFF&rank_icon=github&include_all_commits=true&ring_color=02D075">
+<img height="137" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=n7meless&card_width=300&hide_title=true&hide_border=true&hide=contribs,prs&show_icons=true&theme=dark&title_color=048955&text_color=FFFFFF&rank_icon=github&include_all_commits=true&ring_color=02D075">
 </a>
 
 [//]: # (LANGUAGES STATS)
 
 <a href="https://github.com/n7meless">
-<img height="137" alt="Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n7meless&card_width=540&hide_border=true&layout=compact&theme=dark&title_color=429f68">
+<img height="137" alt="Language Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n7meless&card_width=590&hide_border=true&layout=compact&theme=dark&title_color=429f68">
 </a>
 
 [//]: # (LEETCODE STATS)
