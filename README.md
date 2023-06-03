@@ -88,7 +88,7 @@ My best trait as a developer is that before i start writing code, i first think 
 
 [//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&labellogo&#41;]&#40;https://www.linkedin.com/in/aidar-almukhametov-657a96277/&#41;)
 
-[//]: # ([![LeetCode]&#40;https://img.shields.io/badge/-Leetcode-000?logo=leetcode&labellogo&#41;]&#40;https://leetcode.com/n7meless&#41;)
+<!-- [//]: # ([![LeetCode]&#40;https://img.shields.io/badge/-Leetcode-000?logo=leetcode&labellogo&#41;]&#40;https://leetcode.com/n7meless&#41;) -->
 
 [//]: # ([![Telegram]&#40;https://img.shields.io/badge/-Telegram-000?logo=telegram&labellogo&#41;]&#40;t.me/n7meless&#41;)
 
