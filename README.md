@@ -1,4 +1,4 @@
-![Welcome to my profile! I'm Aidar Almukhametov. I'm Java Backend Developer. Check out my work](assets/greeting.gif)
+<!-- ![Welcome to my profile! I'm Aidar Almukhametov. I'm Java Backend Developer. Check out my work](assets/greeting.gif) -->
 
 
 ## 📖 ABOUT
