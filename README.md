@@ -84,7 +84,7 @@ My best trait as a developer is that before i start writing code, i first think 
 
 ## 🔗 LINKS
 
-[//]: # ([![Gmail]&#40;https://img.shields.io/badge/-Gmail-000?logo=gmail&labellogo&#41;]&#40;n7meless@gmail.com&#41;)
+[//]: # ([![Gmail]&#40;https://img.shields.io/badge/-Gmail-000?logo=gmail&labellogo&#41;]&#40;aanailevich@gmail.com&#41;)
 
 [//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&labellogo&#41;]&#40;https://www.linkedin.com/in/aidar-almukhametov-657a96277/&#41;)
 
@@ -93,7 +93,7 @@ My best trait as a developer is that before i start writing code, i first think 
 [//]: # ([![Telegram]&#40;https://img.shields.io/badge/-Telegram-000?logo=telegram&labellogo&#41;]&#40;t.me/n7meless&#41;)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/n7meless)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:n7meless@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aanailevich@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D0%B9%D0%B4%D0%B0%D1%80-%D0%B0%D0%BB%D1%8C%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%B2-657a96277/)
 <!-- [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/n7meless) -->
 
