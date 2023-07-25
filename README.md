@@ -54,7 +54,7 @@
 [//]: # (LANGUAGES STATS)
 
 <a href="https://github.com/n7meless">
-<img height="137" alt="Language Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n7meless&card_width=365&hide_border=true&layout=compact&theme=dark&title_color=429f68">
+<img height="137" alt="Language Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n7meless&card_width=440&hide_border=true&layout=compact&theme=dark&title_color=429f68">
 </a>
 
 [//]: # (LEETCODE STATS)
