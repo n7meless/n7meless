@@ -30,12 +30,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 
-## 🔗 LINKS
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/n7meless)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:n7meless@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%B0%D0%B9%D0%B4%D0%B0%D1%80-%D0%B0%D0%BB%D1%8C%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D1%82%D0%BE%D0%B2-657a96277/)
-
 ## 📈 STATS
 
 
