@@ -34,7 +34,7 @@
 [//]: # (GITHUB STREAK)
 
 <a href="https://github.com/n7meless">
-<img height="137" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=n7meless&theme=dark&card_width=350&hide_border=true&ring=00802b&fire=02D075&stroke=02D075&currStreakLabel=02D075">
+<img height="137" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=n7meless&theme=dark&card_width=350&hide_border=true&ring=00802b&fire=02D075&stroke=02D075&currStreakLabel=02D075">
 </a>
 
 [//]: # (GITHUB STATS)
